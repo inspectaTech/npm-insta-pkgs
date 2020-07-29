@@ -1,0 +1,24 @@
+{
+  "name": "@sunzao/npm-insta-pkgs",
+  "version": "1.0.0",
+  "description": "inital bash test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "insta":"bash ./bin/test",
+    "install":"bash ./bin/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspectaTech/npm-insta-pkgs.git"
+  },
+  "author": "inspectaTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inspectaTech/npm-insta-pkgs/issues"
+  },
+  "homepage": "https://github.com/inspectaTech/npm-insta-pkgs#readme"
+}

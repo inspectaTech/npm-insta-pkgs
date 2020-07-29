@@ -1,0 +1,6 @@
+#!/bin/bash
+
+printf "\n selected option is working. \n\n"
+mkdir what
+
+# this works
