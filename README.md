@@ -21,3 +21,15 @@ package.json
     },
 ```
 > eventually i will be adding the string to install
+
+```
+  npm init --scope=@sunzao
+
+    creates:
+
+  "name": "@sunzao/npm-insta-pkgs",
+```
+i can add the scope name to the package name myself and still make packages automatically
+```
+  npm init -y
+```
